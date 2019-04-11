@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButtonApp</string>
+    <string name="titulo">Seleccione su estado civil</string>
+    <string name="soltero">soltero</string>
+    <string name="union_libre">unión libre</string>
+    <string name="casado">casado</string>
+    <string name="divorciado">divorciado</string>
+    <string name="viudo">viudo</string>
+</resources>
